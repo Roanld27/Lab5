@@ -29,6 +29,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        return true;
     }
 
     /**
